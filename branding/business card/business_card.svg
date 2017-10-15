@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 301.1811 194.88189"
+   height="55mm"
+   width="85mm"
+   sodipodi:docname="business_card.svg">
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="862"
+     inkscape:window-height="971"
+     inkscape:window-width="1154"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="-123.72874"
+     inkscape:cx="684.26267"
+     inkscape:zoom="0.53455294"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid3626"
+       type="xygrid" />
+    <sodipodi:guide
+       id="guide3901"
+       position="0,194.881889763"
+       orientation="0,301.1811" />
+    <sodipodi:guide
+       id="guide3903"
+       position="194.881889763,0"
+       orientation="0,301.1811" />
+    <sodipodi:guide
+       id="guide3905"
+       position="0,301.181102361"
+       orientation="194.8819,0" />
+    <sodipodi:guide
+       id="guide3907"
+       position="301.181102361,0"
+       orientation="194.8819,0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4819"
+       width="1822.5427"
+       height="1183.3585"
+       x="-760.20142"
+       y="-351.21408" />
+  </g>
+  <g
+     transform="translate(0,-857.48031)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="0.0076111727"
+       x="1052.3777"
+       height="194.8819"
+       width="300"
+       id="rect4799"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0,0 0,194.88281 300,0 L 300,0 0,0 Z"
+       id="rect4797"
+       transform="translate(0,857.48031)"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3e6b8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.5334878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -120.21539,1083.0672 0,7.2558 c 0.0823,1.2108 1.12252,1.656 2.24219,1.8008 10.25479,1.3866 19.208778,3.753 25.953124,6.9414 9.10401,4.3039 13.21875,9.5462 13.21875,13.7598 0,4.2135 -4.11474,9.4558 -13.21875,13.7597 -4.116636,1.7986 -8.598614,3.3094 -12.283204,4.2422 -0.74576,0.1887 -1.28662,0.8709 -1.29687,1.6758 l 0,7.3398 c 0.0369,1.1103 0.98336,1.8481 2.02734,1.7207 5.901508,-1.3484 11.346424,-3.1334 16.087884,-5.375 10.99061,-5.1957 19.30274,-13.0808 19.30274,-23.3632 0,-10.2826 -8.31213,-18.1617 -19.30274,-23.3574 -8.487436,-4.0125 -19.116764,-7.0608 -30.878894,-8.1211 -1.08021,-0.041 -1.82697,0.766 -1.85157,1.7207 z m 1.98243,13.832 c -1.19732,-0.09 -1.98954,0.7917 -1.98633,1.7578 l -0.004,43.6484 c 3e-5,0.7665 0.60272,1.8313 2.01367,1.7383 2.20107,-0.1423 4.42025,-0.4865 6.44336,-0.8008 0.86653,-0.1032 1.54117,-0.8044 1.55078,-1.6972 l 0,-12.4317 c -0.008,-1.5626 0.32072,-2.03 2.17383,-2.3711 3.17218,-0.6147 6.47225,-1.3053 9.230468,-2.1621 8.289466,-2.61 14.556636,-6.5711 14.556636,-11.7363 0,-5.1653 -7.736,-9.5541 -16.025384,-12.1641 -5.46136,-1.7196 -10.02572,-2.7502 -17.95312,-3.7812 z m 9.78125,11.1406 c 0.58017,0 4.66708,0.7085 6.77148,1.2109 2.706048,0.6545 6.689448,2.0953 6.689448,3.3223 0,1.2637 -3.78689,2.7188 -6.580068,3.418 -1.99292,0.499 -4.29184,0.8739 -6.57227,1.207 -1.47854,0.1285 -2.04045,-0.9555 -2.07227,-1.5683 0.002,-1.9361 -0.006,-3.912 0.0117,-5.834 0.0246,-0.9749 0.77714,-1.7619 1.75196,-1.7559 z"
+       id="path4585" />
+    <rect
+       style="opacity:1;fill:#3e6b8c;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5256"
+       width="24.343822"
+       height="24.343822"
+       x="-64.364891"
+       y="857.95599" />
+    <rect
+       y="882.25702"
+       x="-64.35453"
+       height="24.343822"
+       width="24.343822"
+       id="rect5258"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#b0d79f;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5260"
+       width="24.343822"
+       height="24.343822"
+       x="-64.369316"
+       y="906.64294" />
+    <rect
+       y="930.99072"
+       x="-64.364891"
+       height="24.343822"
+       width="24.343822"
+       id="rect5262"
+       style="opacity:1;fill:#f2953c;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#d86a5f;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5264"
+       width="24.343822"
+       height="24.343822"
+       x="-64.364891"
+       y="955.29572" />
+    <rect
+       y="979.63947"
+       x="-64.364891"
+       height="24.343822"
+       width="24.343822"
+       id="rect5270"
+       style="opacity:1;fill:#206d73;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#8c8c8a;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5272"
+       width="24.343822"
+       height="24.343822"
+       x="-64.364891"
+       y="1003.9834" />
+    <rect
+       y="1028.3276"
+       x="-64.364891"
+       height="24.343822"
+       width="24.343822"
+       id="rect5274"
+       style="opacity:1;fill:#202126;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path4821"
+       d="m 139.55856,822.65818 0,29.53299 c 0.33497,4.92829 4.56894,6.74035 9.12631,7.32973 41.73968,5.64386 78.18476,15.27573 105.63601,28.25336 37.0557,17.51798 53.80378,38.85551 53.80378,56.00592 0,17.1501 -16.74808,38.48757 -53.80378,56.00556 -16.75577,7.32076 -34.99862,13.47006 -49.99586,17.26706 -3.03544,0.768 -5.23688,3.5447 -5.2786,6.8208 l 0,29.8751 c 0.1502,4.5191 4.00254,7.5221 8.25181,7.0037 24.02068,-5.4886 46.18291,-12.7539 65.48188,-21.8777 44.73468,-21.1479 78.56723,-53.24246 78.56723,-95.09452 0,-41.85282 -33.83255,-73.92287 -78.56723,-95.07071 -34.54607,-16.33192 -77.81022,-28.7393 -125.68517,-33.05501 -4.39674,-0.16689 -7.43625,3.11781 -7.53638,7.00372 z m 8.06901,56.29989 c -4.8734,-0.36636 -8.09796,3.22236 -8.08489,7.15473 l -0.0163,177.6603 c 1.2e-4,3.1199 2.45322,7.4539 8.19616,7.0755 8.95892,-0.5793 17.99156,-1.9802 26.22617,-3.2596 3.52699,-0.4199 6.27296,-3.2741 6.31207,-6.908 l 0,-50.6003 c -0.0326,-6.3602 1.30542,-8.2627 8.84806,-9.651 12.91161,-2.50193 26.34378,-5.31297 37.57045,-8.80029 33.74027,-10.62341 59.2493,-26.74613 59.2493,-47.76979 0,-21.02415 -31.48755,-38.88769 -65.2275,-49.51106 -22.22916,-6.99929 -40.80732,-11.19412 -73.07392,-15.39049 z m 39.81226,45.34517 c 2.36145,0 18.99623,2.8837 27.56172,4.92864 11.01432,2.66397 27.2278,8.52838 27.2278,13.52265 0,5.14359 -15.41364,11.06618 -26.78262,13.91214 -8.11171,2.03106 -17.46891,3.55699 -26.75086,4.91289 -6.01805,0.52293 -8.30517,-3.88922 -8.43467,-6.38343 0.008,-7.88043 -0.0244,-15.92294 0.0477,-23.74596 0.10019,-3.96808 3.16316,-7.17141 7.13093,-7.14693 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f4f4f4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.5334878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.93587875px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#202126;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="19.394209"
+       y="910.53864"
+       id="text4751"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4753"
+         x="19.394209"
+         y="910.53864"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Heavy';fill:#202126;fill-opacity:1">Andrej Safronov</tspan><tspan
+         sodipodi:role="line"
+         x="19.394209"
+         y="929.28864"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         id="tspan4785">Geschäftsführer</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4755"
+       y="934.33661"
+       x="140"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
+         y="934.33661"
+         x="140"
+         id="tspan4757"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.93587875px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#202126;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="20.091106"
+       y="996.80212"
+       id="text4759"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="20.091106"
+         y="996.80212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         id="tspan4763">mobile: +49 152 14 23 183</tspan><tspan
+         sodipodi:role="line"
+         x="20.091106"
+         y="1015.5521"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         id="tspan4781">andrej.safronov@piccolicapitani.de</tspan><tspan
+         sodipodi:role="line"
+         x="20.091106"
+         y="1034.3021"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         id="tspan4783">piccolicapitani.de</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4767"
+       y="1050.5612"
+       x="140"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4769"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
+         y="1050.5612"
+         x="140"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="140"
+       y="1082.5354"
+       id="text4771"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="140"
+         y="1082.5354"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
+         id="tspan4773" /></text>
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path4583-9-2"
+       d="m -92.754697,1161.5062 c -50.312223,17.8809 -99.806313,3.0743 -102.412543,2.2713 l 0,187.8661 194.82933594,0 0,-208.9362 c -31.81842794,-1.2965 -61.28037594,8.4967 -92.41679294,18.7988 z"
+       style="fill:#3e6b8c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4775"
+       y="1323.2827"
+       x="-166.86891"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         y="1323.2827"
+         x="-166.86891"
+         sodipodi:role="line"
+         id="tspan4787"><tspan
+   id="tspan4854"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Heavy';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">Piccoli Capitani UG </tspan>(haftungsbeschränkt)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         y="1332.6577"
+         x="-166.86891"
+         sodipodi:role="line"
+         id="tspan4795">Karl-Marin-Straße 10a 21629 Neu Wulmstorf</tspan></text>
+    <rect
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4824"
+       width="301.18109"
+       height="90.149506"
+       x="0"
+       y="767.33081" />
+    <rect
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4828"
+       width="254.94373"
+       height="461.09711"
+       x="301.18109"
+       y="766.88348" />
+    <rect
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4830"
+       width="301.18109"
+       height="175.61839"
+       x="0"
+       y="1052.3622" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4832"
+       width="2.0906949"
+       height="4.1813898"
+       x="396.9332"
+       y="1095.5699" />
+    <path
+       id="path4834"
+       d="m 0,663.90984 0,194.88281 300,0 0,-194.88281 -300,0 z"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4836"
+       d="m 20.640866,749.14116 0,2.98999 c 0.03382,0.49897 0.462573,0.68241 0.923967,0.7421 4.225847,0.57139 7.915644,1.54655 10.694888,2.86044 3.751623,1.77356 5.447247,3.93384 5.447247,5.6702 0,1.73632 -1.695605,3.89658 -5.447247,5.67015 -1.696398,0.7412 -3.543343,1.36376 -5.061727,1.74814 -0.307303,0.0778 -0.530179,0.3589 -0.534392,0.69058 l 0,3.02461 c 0.01417,0.45755 0.405223,0.76159 0.835429,0.70909 2.431921,-0.55566 4.675677,-1.29124 6.62958,-2.21495 4.529056,-2.14107 7.954348,-5.3904 7.954348,-9.62762 0,-4.23729 -3.425292,-7.48415 -7.954348,-9.62523 -3.497562,-1.65349 -7.877727,-2.90964 -12.724726,-3.34658 -0.445142,-0.0162 -0.752867,0.31567 -0.762999,0.70908 z m 0.816928,5.69995 c -0.493397,-0.0371 -0.819849,0.32625 -0.818532,0.72436 l -0.0019,17.98683 c 0,0.31587 0.248368,0.75467 0.829794,0.71633 0.907027,-0.0588 1.821531,-0.20042 2.65522,-0.33 0.35707,-0.0426 0.63509,-0.33147 0.639039,-0.69939 l 0,-5.12291 c -0.0038,-0.64392 0.132133,-0.83652 0.8958,-0.9771 1.307206,-0.25329 2.66714,-0.53789 3.803751,-0.89096 3.415951,-1.07555 5.99856,-2.70785 5.99856,-4.83635 0,-2.12853 -3.187888,-3.93709 -6.603821,-5.01265 -2.250525,-0.70861 -4.131432,-1.13331 -7.398196,-1.55816 z m 4.030715,4.59088 c 0.239066,0 1.923223,0.29194 2.790428,0.49897 1.115111,0.26973 2.756605,0.86346 2.756605,1.36907 0,0.52078 -1.560518,1.12038 -2.711556,1.40851 -0.821246,0.20563 -1.768601,0.36014 -2.708312,0.49739 -0.609296,0.0529 -0.840844,-0.39375 -0.853954,-0.64625 9.88e-4,-0.79784 -0.0019,-1.6121 0.0061,-2.40412 0.01013,-0.40173 0.320231,-0.72606 0.721947,-0.72357 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3e6b8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.5334878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4838"
+       width="300"
+       height="194.8819"
+       x="1052.3777"
+       y="233.71942" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4840"
+       y="1122.0388"
+       x="-407.94153"
+       style="font-style:normal;font-weight:normal;font-size:11.54265594px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#202126;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Heavy';fill:#202126;fill-opacity:1"
+         y="1122.0388"
+         x="-407.94153"
+         id="tspan4842"
+         sodipodi:role="line">Andrej Safronov</tspan><tspan
+         id="tspan4844"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         y="1140.7888"
+         x="-407.94153"
+         sodipodi:role="line">Geschäftsführer</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4846"
+       y="1308.311"
+       x="-407.49304"
+       style="font-style:normal;font-weight:normal;font-size:11.54265594px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#202126;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         y="1308.311"
+         x="-407.49304"
+         sodipodi:role="line">mobile: +49 152 14 23 183</tspan><tspan
+         id="tspan4850"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         y="1320.811"
+         x="-407.49304"
+         sodipodi:role="line">andrej.safronov@piccolicapitani.de</tspan><tspan
+         id="tspan4852"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         y="1333.311"
+         x="-407.49304"
+         sodipodi:role="line">piccolicapitani.de</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3e6b8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="75.830139"
+       y="769.85541"
+       id="text4858"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4860"
+         x="75.830139"
+         y="769.85541"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:30px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Heavy';fill:#3e6b8c;fill-opacity:1">Piccoli Capitani</tspan></text>
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4202"
+       width="300"
+       height="194.8819"
+       x="1052.3777"
+       y="-730.60046" />
+    <path
+       style="opacity:1;fill:#3e6b8c;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 730.60113,1115.6991 c -30.87538,2.745 -60.53019,12.585 -91.51172,22.8359 -39.73374,14.1213 -79.03688,11.8968 -103.37109,8.1113 l 0,205.7305 194.88281,0 0,-236.6777 z"
+       id="rect4286"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="563.7392"
+       y="1323.2827"
+       id="text4208"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4210"
+         sodipodi:role="line"
+         x="563.7392"
+         y="1323.2827"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Heavy';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+   id="tspan4212">Piccoli Capitani UG </tspan>(haftungsbeschränkt)</tspan><tspan
+         id="tspan4214"
+         sodipodi:role="line"
+         x="563.7392"
+         y="1332.6577"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">Karl-Marin-Straße 10a 21629 Neu Wulmstorf</tspan></text>
+    <rect
+       y="-496.88867"
+       x="1052.3777"
+       height="194.8819"
+       width="300"
+       id="rect4216"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.54265594px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#202126;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="322.66656"
+       y="1122.0388"
+       id="text4218"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4220"
+         x="322.66656"
+         y="1122.0388"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Heavy';fill:#202126;fill-opacity:1">Andrej Safronov</tspan><tspan
+         sodipodi:role="line"
+         x="322.66656"
+         y="1140.7888"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         id="tspan4222">Geschäftsführer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.54265594px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#202126;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="323.11505"
+       y="1275.3059"
+       id="text4224"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="323.11505"
+         y="1275.3059"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         id="tspan4226">mobile: +49 152 14 23 183</tspan><tspan
+         sodipodi:role="line"
+         x="323.11505"
+         y="1287.8059"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         id="tspan4228">andrej.safronov@piccolicapitani.de</tspan><tspan
+         sodipodi:role="line"
+         x="323.11505"
+         y="1300.3059"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         id="tspan4230">piccolicapitani.de</tspan></text>
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3e6b8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.5334878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 357.74265,1317.1219 c -2.09444,-0.08 -3.54214,1.4848 -3.58984,3.3359 l 0,14.0684 c 0.15958,2.3476 2.17672,3.2114 4.34766,3.4922 19.88315,2.6885 37.24556,7.2769 50.32226,13.4589 0.61969,0.293 1.13651,0.6032 1.73242,0.9004 l 34.19336,0 c -6.72162,-7.8116 -16.22345,-14.3524 -27.13281,-19.5097 -16.4564,-7.7799 -37.06731,-13.6902 -59.87305,-15.7461 z m 0.25391,30.1562 c -2.3215,-0.1745 -3.85583,1.535 -3.84961,3.4082 l 0,1.6914 30.30078,0 c -7.50596,-1.9879 -15.19533,-3.6357 -26.45117,-5.0996 z"
+       id="path4280"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3447">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4278"
+         d="m 616.26715,1052.3762 -30.30078,0 -0.01,82.9394 c 5e-5,1.4862 1.16859,3.5496 3.9043,3.3692 4.26768,-0.2759 8.57151,-0.9433 12.49414,-1.5528 1.68013,-0.2 2.98722,-1.5599 3.00586,-3.291 l 0,-24.1035 c -0.0155,-3.0297 0.62183,-3.9363 4.21485,-4.5977 6.15057,-1.1919 12.55048,-2.5302 17.89843,-4.1914 16.07256,-5.0606 28.22266,-12.7409 28.22266,-22.7558 0,-10.0151 -14.9979,-18.5255 -31.07031,-23.586 -2.83471,-0.8925 -5.61549,-1.5037 -8.35938,-2.2304 z m -7.48633,16.5 c 1.1249,0 9.05062,1.3735 13.13086,2.3476 5.2468,1.2691 12.96875,4.0643 12.96875,6.4434 0,2.4502 -7.34208,5.2712 -12.75781,6.6269 -3.8641,0.9675 -8.32063,1.694 -12.74219,2.3399 -2.86676,0.2491 -3.95588,-1.8529 -4.01758,-3.041 0.004,-3.754 -0.0128,-7.5859 0.0215,-11.3125 0.0477,-1.8902 1.50639,-3.4159 3.39648,-3.4043 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3e6b8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.5334878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4276"
+         d="m 676.56793,1052.3762 -34.19336,0 c 16.37884,8.1706 23.89649,17.8963 23.89649,25.7793 0,8.1696 -7.97703,18.3328 -25.62891,26.6777 -7.9818,3.4873 -16.67231,6.418 -23.8164,8.2266 -1.44597,0.3659 -2.49576,1.6874 -2.51563,3.248 l 0,14.2324 c 0.0716,2.1527 1.90745,3.583 3.93164,3.336 11.44251,-2.6145 22.00009,-6.0756 31.19336,-10.4219 21.30984,-10.074 37.42578,-25.3621 37.42578,-45.2988 0,-9.7306 -3.88488,-18.3321 -10.29297,-25.7793 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3e6b8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.5334878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <rect
+       y="599.31519"
+       x="433.47073"
+       height="4.1813898"
+       width="2.0906949"
+       id="rect4289"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="-767.138"
+       x="556.12292"
+       height="194.8819"
+       width="300"
+       id="rect4291"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <path
+       id="path4293"
+       d="m 767.13867,619.44435 c -30.87538,2.745 -60.53019,12.58503 -91.51172,22.83594 -39.73374,14.12132 -79.03688,11.8968 -103.37109,8.11133 l 0,205.73042 194.88281,0 0,-236.67769 z"
+       style="opacity:1;fill:#3e6b8c;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4295"
+       y="827.02795"
+       x="600.27673"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         y="827.02795"
+         x="600.27673"
+         sodipodi:role="line"
+         id="tspan4297"><tspan
+   id="tspan4299"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Heavy';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">Piccoli Capitani UG </tspan>(haftungsbeschränkt)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         y="836.40295"
+         x="600.27673"
+         sodipodi:role="line"
+         id="tspan4301">Karl-Marin-Straße 10a 21629 Neu Wulmstorf</tspan></text>
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4303"
+       width="300"
+       height="194.8819"
+       x="556.12292"
+       y="-533.42621" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4305"
+       y="625.78406"
+       x="359.2041"
+       style="font-style:normal;font-weight:normal;font-size:11.54265594px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#202126;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Heavy';fill:#202126;fill-opacity:1"
+         y="625.78406"
+         x="359.2041"
+         id="tspan4307"
+         sodipodi:role="line">Andrej Safronov</tspan><tspan
+         id="tspan4309"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         y="644.53406"
+         x="359.2041"
+         sodipodi:role="line">Geschäftsführer</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4311"
+       y="810.62933"
+       x="359.65259"
+       style="font-style:normal;font-weight:normal;font-size:11.54265594px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#202126;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4313"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         y="810.62933"
+         x="359.65259"
+         sodipodi:role="line">mobile: +49 152 14 23 183</tspan><tspan
+         id="tspan4315"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         y="823.12933"
+         x="359.65259"
+         sodipodi:role="line">andrej.safronov@piccolicapitani.de</tspan><tspan
+         id="tspan4317"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#202126;fill-opacity:1"
+         y="835.62933"
+         x="359.65259"
+         sodipodi:role="line">piccolicapitani.de</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4319"
+       d="m 394.28019,590.97202 c -2.09444,0.08 -3.54214,-1.4848 -3.58984,-3.3359 l 0,-14.06844 c 0.15958,-2.3476 2.17672,-3.2114 4.34766,-3.4922 19.88315,-2.68845 37.24556,-7.27685 50.32226,-13.45885 0.61969,-0.293 1.13651,-0.6032 1.73242,-0.9004 l 34.19336,0 c -6.72162,7.8116 -16.22345,14.35235 -27.13281,19.50965 -16.4564,7.77994 -37.06731,13.69024 -59.87305,15.74614 z m 0.25391,-30.15619 c -2.3215,0.1745 -3.85583,-1.535 -3.84961,-3.4082 l 0,-1.6914 30.30078,0 c -7.50596,1.9879 -15.19533,3.6357 -26.45117,5.0996 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3e6b8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.5334878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <g
+       id="g3451">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3e6b8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.5334878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 652.80469,556.12149 -30.30078,0 -0.01,82.9394 c 5e-5,1.4862 1.16859,3.5496 3.9043,3.3692 4.26768,-0.2759 8.57151,-0.9433 12.49414,-1.5528 1.68013,-0.2 2.98722,-1.5599 3.00586,-3.291 l 0,-24.1035 c -0.0155,-3.0297 0.62183,-3.9363 4.21485,-4.5977 6.15057,-1.1919 12.55048,-2.5302 17.89843,-4.1914 16.07256,-5.0606 28.22266,-12.7409 28.22266,-22.7558 0,-10.0151 -14.9979,-18.5255 -31.07031,-23.586 -2.83471,-0.8925 -5.61549,-1.5037 -8.35938,-2.2304 z m -7.48633,16.5 c 1.1249,0 9.05062,1.3735 13.13086,2.3476 5.2468,1.2691 12.96875,4.0643 12.96875,6.4434 0,2.4502 -7.34208,5.2712 -12.75781,6.6269 -3.8641,0.9675 -8.32063,1.694 -12.74219,2.3399 -2.86676,0.2491 -3.95588,-1.8529 -4.01758,-3.041 0.004,-3.754 -0.0128,-7.5859 0.0215,-11.3125 0.0477,-1.8902 1.50639,-3.4159 3.39648,-3.4043 z"
+         id="path4321"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3e6b8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.5334878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 713.10547,556.12149 -34.19336,0 c 16.37884,8.1706 23.89649,17.8963 23.89649,25.7793 0,8.1696 -7.97703,18.3328 -25.62891,26.6777 -7.9818,3.4873 -16.67231,6.418 -23.8164,8.2266 -1.44597,0.3659 -2.49576,1.6874 -2.51563,3.248 l 0,14.2324 c 0.0716,2.1527 1.90745,3.583 3.93164,3.336 11.44251,-2.6145 22.00009,-6.0756 31.19336,-10.4219 21.30984,-10.074 37.42578,-25.3621 37.42578,-45.2988 0,-9.7306 -3.88488,-18.3321 -10.29297,-25.7793 z"
+         id="path4323"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
